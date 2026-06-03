@@ -173,7 +173,7 @@ Customer-Segmentation-Retention-Analytics-Dashboard/
 ├── docs/
 ├── powerbi/
 ├── screenshots/
-│   └── 01_Customer_Segmentation_Dashboard.png
+│   └── 01_customer_segmentation_dashboard.png
 │
 ├── sql/
 │   ├── 01_orders_data_cleaning.sql
