@@ -1,6 +1,6 @@
 # Customer Segmentation & Retention Analytics Dashboard
 
-![Customer Segmentation Dashboard](screenshots/01_Customer_Segmentation_Dashboard.png)
+![Customer Segmentation Dashboard](screenshots/01_customer_segmentation_dashboard.png)
 
 ## Business Problem
 
